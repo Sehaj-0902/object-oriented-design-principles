@@ -79,7 +79,7 @@ class CourseInfo {
         return courseName;
     }
 
-    // Method to set professor
+    // Method to set the professor
     public void setProfessor(Professor professor) {
         this.professor = professor;
     }
